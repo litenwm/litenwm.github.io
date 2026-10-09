@@ -1,0 +1,5 @@
+Adapted from Nerfies by Keunhong Park and contributors.
+Source: https://github.com/nerfies/nerfies.github.io
+License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+Changes: LiteNWM content, layout, colors, scene filtering, tabs and media dialogs. Adapted template portions are licensed CC BY-SA 4.0. Independent papers, research software and media are separately licensed. Third-party libraries and fonts retain their original licenses.

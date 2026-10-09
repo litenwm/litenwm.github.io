@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://litenwm.github.io/sitemap.xml
