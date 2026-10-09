@@ -1,0 +1,18 @@
+{
+  "nju": {
+    "url": "https://www.nju.edu.cn/images/logo.png",
+    "note": "Official transparent asset; displayed in purple using a CSS mask."
+  },
+  "imperial": {
+    "url": "https://logotyp.us/file/imperial.svg",
+    "note": "Vector wordmark; viewBox tightened to artwork bounds."
+  },
+  "sony": {
+    "source": "User-provided PNG",
+    "note": "Original unchanged; inline SVG displays upper black wordmark only."
+  },
+  "bupt": {
+    "url": "https://vi.bupt.edu.cn/images/logo1.png",
+    "note": "Official visual identity website, transparent asset."
+  }
+}

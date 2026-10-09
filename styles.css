@@ -197,3 +197,15 @@ html { scroll-padding-top:76px; }
  .title.is-3 { font-size:1.65rem; }
  .reference-list { font-size:.82rem; }
 }
+
+/* Compact affiliation marks; original assets retain transparent backgrounds. */
+.institution-logos{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:18px 30px;max-width:760px;margin:20px auto 12px}
+.institution-logo{display:flex;align-items:center;justify-content:center;height:48px;flex-shrink:0}
+.institution-logo img{display:block;width:100%;height:auto;max-height:48px;object-fit:contain}
+.nju-logo{width:154px;background:#6f205c;mask:url('assets/logos/nju.png') center/contain no-repeat;-webkit-mask:url('assets/logos/nju.png') center/contain no-repeat}
+.imperial-logo{width:130px}
+.sony-logo{width:104px}
+.sony-logo svg{display:block;width:100%;height:auto;overflow:hidden}
+.bupt-logo{width:180px}
+.teaser-grid figcaption span{color:#707070;font-size:.8rem;margin-left:8px;white-space:nowrap}
+@media(max-width:600px){.institution-logos{gap:12px 24px;max-width:340px;margin-top:16px}.institution-logo{height:40px}.nju-logo{width:128px}.imperial-logo{width:112px}.sony-logo{width:100px}.bupt-logo{width:150px}.institution-logo img{max-height:40px}}
