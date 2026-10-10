@@ -5,7 +5,7 @@
   },
   "imperial": {
     "url": "https://logotyp.us/file/imperial.svg",
-    "note": "Vector wordmark; viewBox tightened to artwork bounds."
+    "note": "Transparent vector wordmark; artwork bounds preserved; blue #0000CD matches the user-provided IMPERIAL reference."
   },
   "sony": {
     "source": "User-provided PNG",
