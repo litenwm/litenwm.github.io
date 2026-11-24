@@ -1,6 +1,6 @@
 # LiteNWM project page
 
-Static research website for [LiteNWM](https://arxiv.org/abs/2610.12368).
+Static research website for [LiteNWM](https://arxiv.org/abs/2610.12368v2).
 
 Publish this repository using GitHub Pages: deploy from the main branch, root directory. All assets use relative paths and support a project subpath. Canonical and social-image URLs should be set to the final Pages address before publication.
 
